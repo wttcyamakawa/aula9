@@ -1,0 +1,29 @@
+
+.logo{
+	border: 1px solid;
+	clear: both;
+}
+
+.imglogo{
+	 height: 60px;
+	 width: 60px;
+	 float: left;
+}
+
+.navtree{
+	float: left;
+	width: 200px;
+}
+
+ul{
+	list-style-type: none;
+	float: left;
+	height: 800px;
+	width: 110px;
+	border-right: 3px solid;
+}
+
+.main{
+	border: 1px solid;
+	float: left;
+}
